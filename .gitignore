@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+x64/*
+Release/*
+Debug/*
+
+sudoku_solve/x64
+sudoku_solve/Release/*
+sudoku_solve/Debug/*
+sudoku_solve/obj/*
+/.vs/sudoku_solve/v16/*.suo
+/.vs/sudoku_solve/v16/*.db
+/.vs/sudoku_solve/v16/ipch/AutoPCH/223839e8aeae9dd1/*.ipch
